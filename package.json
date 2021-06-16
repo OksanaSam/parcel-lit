@@ -1,0 +1,24 @@
+{
+  "name": "litelement-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "lit-element": "2.3.1",
+    "lit-html": "1.2.1"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": [
+    "web components",
+    "shadow dom",
+    "litelement",
+    "custom elements",
+    "lit-html"
+  ]
+}
